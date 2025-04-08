@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
   <!-- Example hotel from Figure 1 -->
-  <Hotel Rating="4.2">
+  <Hotels Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -15,7 +15,7 @@
   </Hotel>
   
   <!-- Additional 10 real hotels -->
-  <Hotel Rating="4.5">
+  <Hotels Rating="4.5">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -27,7 +27,7 @@
     </Address>
   </Hotel>
   
-  <Hotel>
+  <Hotels>
     <Name>Hilton Phoenix Resort at the Peak</Name>
     <Phone>602-997-2626</Phone>
     <Phone>800-947-9784</Phone>
@@ -38,9 +38,9 @@
       <State>AZ</State>
       <Zip>85020</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel Rating="4.3">
+  <Hotels Rating="4.3">
     <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
     <Phone>602-955-6600</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -50,9 +50,9 @@
       <State>AZ</State>
       <Zip>85016</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel>
+  <Hotels>
     <Name>Hyatt Regency Scottsdale Resort &amp; Spa</Name>
     <Phone>480-444-1234</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -62,9 +62,9 @@
       <State>AZ</State>
       <Zip>85258</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel Rating="5.0">
+  <Hotels Rating="5.0">
     <Name>Four Seasons Resort Scottsdale</Name>
     <Phone>480-515-5700</Phone>
     <Phone>800-819-5053</Phone>
@@ -75,9 +75,9 @@
       <State>AZ</State>
       <Zip>85262</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel Rating="3.9">
+  <Hotels Rating="3.9">
     <Name>The Clarendon Hotel &amp; Spa</Name>
     <Phone>602-252-7363</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -87,9 +87,9 @@
       <State>AZ</State>
       <Zip>85013</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel>
+  <Hotels>
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -99,9 +99,9 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel Rating="4.1">
+  <Hotels Rating="4.1">
     <Name>Sheraton Grand at Wild Horse Pass</Name>
     <Phone>602-225-0100</Phone>
     <Phone>866-716-8134</Phone>
@@ -112,9 +112,9 @@
       <State>AZ</State>
       <Zip>85226</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
-  <Hotel Rating="3.7">
+  <Hotels Rating="3.7">
     <Name>DoubleTree by Hilton Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -124,7 +124,7 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-  </Hotel>
+  </Hotels>
   
   <Hotel>
     <Name>The Scott Resort &amp; Spa</Name>
