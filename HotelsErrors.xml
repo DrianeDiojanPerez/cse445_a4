@@ -5,7 +5,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -18,7 +18,7 @@
   <Hotel Rating="4.5">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Tempe</City>
@@ -31,7 +31,7 @@
     <Name>Hilton Phoenix Resort at the Peak</Name>
     <Phone>602-997-2626</Phone>
     <Phone>800-947-9784</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>7677</Number>
       <Street>N 16th St</Street>
       <City>Phoenix</City>
@@ -43,7 +43,7 @@
   <Hotel Rating="4.3">
     <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
     <Phone>602-955-6600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
       <City>Phoenix</City>
@@ -55,7 +55,7 @@
   <Hotel>
     <Name>Hyatt Regency Scottsdale Resort &amp; Spa</Name>
     <Phone>480-444-1234</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>7500</Number>
       <Street>E Doubletree Ranch Rd</Street>
       <City>Scottsdale</City>
@@ -68,7 +68,7 @@
     <Name>Four Seasons Resort Scottsdale</Name>
     <Phone>480-515-5700</Phone>
     <Phone>800-819-5053</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>10600</Number>
       <Street>E Crescent Moon Dr</Street>
       <City>Scottsdale</City>
@@ -81,7 +81,7 @@
     <Name>The Clarendon Hotel &amp; Spa</Name>
     <Name>The Clarendoncj Hotel &amp; Spa</Name>
     <Phone>602-252-7363</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>401</Number>
       <Street>W Clarendon Ave</Street>
       <City>Phoenix</City>
@@ -93,7 +93,7 @@
   <Hotel>
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>4400</Number>
       <Street>S Rural Rd</Street>
       <City>Tempe</City>
@@ -105,7 +105,7 @@
     <Name>Sheraton Grand at Wild Horse Pass</Name>
     <Phone>602-225-0100</Phone>
     <Phone>866-716-8134</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>5594</Number>
       <Street>W Wild Horse Pass Blvd</Street>
       <City>Chandler</City>
@@ -128,7 +128,7 @@
   
   <Hotel>
     <Name>The Scott Resort &amp; Spa</Name>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>4925</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
